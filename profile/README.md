@@ -1,1 +1,1 @@
-[![GitHub Banner](./banner.png)](https://github.com/ypmngr)
+[![GitHub Banner](../banner.png)](https://github.com/ypmngr)
